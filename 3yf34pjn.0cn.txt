@@ -1,0 +1,193 @@
+﻿Finish
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    wabtytsai <Edward>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   1p/level 1.txt
+#	new file:   1p/level 10.txt
+#	new file:   1p/level 2.txt
+#	new file:   1p/level 3.txt
+#	new file:   1p/level 4.txt
+#	new file:   1p/level 5.txt
+#	new file:   1p/level 6.txt
+#	new file:   1p/level 7.txt
+#	new file:   1p/level 8.txt
+#	new file:   1p/level 9.txt
+#	new file:   2 Player Easy.txt
+#	new file:   2 Player Gold Digger.txt
+#	new file:   2 Player Hard.txt
+#	new file:   2 Player Normal.txt
+#	new file:   Power Overwhelming.txt
+#	new file:   Show Me the Money.txt
+#	new file:   Silver Lining.txt
+#	new file:   accounts.txt
+#	new file:   basic final project.py
+#	new file:   casual.ttf
+#	new file:   dis.py
+#	new file:   fireworks.py
+#	new file:   getting ascii.py
+#	new file:   graphic/2-6554_2.jpg
+#	new file:   graphic/BB2_2.jpg
+#	new file:   graphic/Done/Blue Block.PNG
+#	new file:   graphic/Done/Bronze Block.PNG
+#	new file:   graphic/Done/Gold Block.PNG
+#	new file:   graphic/Done/Gray Block.PNG
+#	new file:   graphic/Done/Green Block.PNG
+#	new file:   graphic/Done/Normal Block.PNG
+#	new file:   graphic/Done/Silver Block.PNG
+#	new file:   graphic/Done/ball10.PNG
+#	new file:   graphic/Done/ball15.PNG
+#	new file:   graphic/Done/ball5.PNG
+#	new file:   graphic/Done/bubblue.png
+#	new file:   graphic/Done/bubgreen.png
+#	new file:   graphic/Done/bubred.png
+#	new file:   graphic/Done/bubyellow.png
+#	new file:   graphic/Done/effBlue.png
+#	new file:   graphic/Done/effGreen.png
+#	new file:   graphic/Done/effRed.png
+#	new file:   graphic/Done/effYellow.png
+#	new file:   graphic/Done/paddle.PNG
+#	new file:   graphic/backGround.jpg
+#	new file:   graphic/ball.JPG
+#	new file:   graphic/beatball_01.jpg
+#	new file:   graphic/bg/1.PNG
+#	new file:   graphic/bg/10.PNG
+#	new file:   graphic/bg/11.PNG
+#	new file:   graphic/bg/12.PNG
+#	new file:   graphic/bg/2.PNG
+#	new file:   graphic/bg/3.PNG
+#	new file:   graphic/bg/4.PNG
+#	new file:   graphic/bg/5.PNG
+#	new file:   graphic/bg/6.PNG
+#	new file:   graphic/bg/7.PNG
+#	new file:   graphic/bg/8.PNG
+#	new file:   graphic/bg/9.PNG
+#	new file:   graphic/brown fox.PNG
+#	new file:   graphic/bubble.jpg
+#	new file:   graphic/custom.png
+#	new file:   graphic/flamingball.jpg
+#	new file:   graphic/front page.png
+#	new file:   graphic/images-BeatBall-500.png
+#	new file:   graphic/login.gif
+#	new file:   graphic/members-login-right.png
+#	new file:   graphic/menu copy.png
+#	new file:   graphic/menu.png
+#	new file:   graphic/middle.png
+#	new file:   graphic/monkimage.PNG
+#	new file:   graphic/paddle.JPG
+#	new file:   graphic/text/0.PNG
+#	new file:   graphic/text/1.PNG
+#	new file:   graphic/text/2.png
+#	new file:   graphic/text/3.png
+#	new file:   graphic/text/4.png
+#	new file:   graphic/text/5.PNG
+#	new file:   graphic/text/6.PNG
+#	new file:   graphic/text/7.PNG
+#	new file:   graphic/text/8.PNG
+#	new file:   graphic/text/9.PNG
+#	new file:   graphic/text/help.png
+#	new file:   graphic/text/title.PNG
+#	new file:   graphic/title/0.png
+#	new file:   graphic/title/1.png
+#	new file:   graphic/title/10.png
+#	new file:   graphic/title/11.png
+#	new file:   graphic/title/2.png
+#	new file:   graphic/title/3.png
+#	new file:   graphic/title/4.png
+#	new file:   graphic/title/5.png
+#	new file:   graphic/title/6.png
+#	new file:   graphic/title/7.png
+#	new file:   graphic/title/8.png
+#	new file:   graphic/title/9.png
+#	new file:   level-editor 2.py
+#	new file:   levelEditor.py
+#	new file:   levelEditor2.py
+#	new file:   levelEditorBeforeEdit.py
+#	new file:   pictures/120seconds.jpg
+#	new file:   pictures/123.png
+#	new file:   pictures/1playerword.JPG
+#	new file:   pictures/1playerword.png
+#	new file:   pictures/2playerword.JPG
+#	new file:   pictures/2playerword.png
+#	new file:   pictures/30seconds.jpg
+#	new file:   pictures/60seconds.jpg
+#	new file:   pictures/90seconds.jpg
+#	new file:   pictures/alarmclock.jpg
+#	new file:   pictures/background.jpg
+#	new file:   pictures/backword.JPG
+#	new file:   pictures/backword.png
+#	new file:   pictures/createaccount.jpg
+#	new file:   pictures/createaccount.png
+#	new file:   pictures/createaccount2.jpg
+#	new file:   pictures/createword.PNG
+#	new file:   pictures/customlevels.JPG
+#	new file:   pictures/customlevels.png
+#	new file:   pictures/document.png
+#	new file:   pictures/enteremail.jpg
+#	new file:   pictures/enteremail.png
+#	new file:   pictures/goback.bmp
+#	new file:   pictures/guest.PNG
+#	new file:   pictures/help.jpg
+#	new file:   pictures/help.png
+#	new file:   pictures/home.jpg
+#	new file:   pictures/load.jpg
+#	new file:   pictures/login.gif
+#	new file:   pictures/login.jpg
+#	new file:   pictures/login.png
+#	new file:   pictures/loginfo.png
+#	new file:   pictures/loginwrong.png
+#	new file:   pictures/makeaccount.png
+#	new file:   pictures/menu.png
+#	new file:   pictures/next.jpg
+#	new file:   pictures/passwordfault.jpg
+#	new file:   pictures/pause.png
+#	new file:   pictures/playbutton.jpg
+#	new file:   pictures/playbutton.png
+#	new file:   pictures/playword.PNG
+#	new file:   pictures/renewable.jpg
+#	new file:   pictures/restart.bmp
+#	new file:   pictures/scoreboard.jpg
+#	new file:   pictures/start.jpg
+#	new file:   pictures/start.png
+#	new file:   pictures/success.jpg
+#	new file:   pictures/unrenewable.jpg
+#	new file:   pictures/unrenewable.png
+#	new file:   pictures/usernamefault.jpg
+#	new file:   sound/Ao-laser.wav
+#	new file:   sound/Byeball.wav
+#	new file:   sound/Effect.wav
+#	new file:   sound/Glass.wav
+#	new file:   sound/Gunfire.wav
+#	new file:   sound/Padexplo.wav
+#	new file:   sound/Peow!.wav
+#	new file:   sound/Ricochet.wav
+#	new file:   sound/Saucer.wav
+#	new file:   sound/Swordswi.wav
+#	new file:   sound/Wowpulse.wav
+#	new file:   sound/Xplosht1.wav
+#	new file:   sound/music/AOTA.mp3
+#	new file:   sound/music/Batman Begins Soundtrack - Molossus.mp3
+#	new file:   sound/music/C.mp3
+#	new file:   sound/music/Canon in D.mp3
+#	new file:   sound/music/E.mp3
+#	new file:   sound/music/Merry Christmas Mr Lawrence.mp3
+#	new file:   sound/music/PATG.mp3
+#	new file:   sound/music/Requiem for a Dream.mp3
+#	new file:   sound/music/T.mp3
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	README.md
+
