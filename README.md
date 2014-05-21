@@ -1,11 +1,11 @@
 #############################
 ##########READ ME############
 #############################
-Created by Edward Tsai and Joseph Zhou
-Final Project for grade 11 Computer Science class
+<p>Created by Edward Tsai and Joseph Zhou.</p>
+<p>Final Project for grade 11 Computer Science class.</p>
 
-This is a brick breaker game made by two grade 10 high school students 
-It is written in Python 2.7 with pygame module 
-Must install 'casual' font, which is included
+<p>This is a brick breaker game made by two grade 10 high school students. </p>
+<p>It is written in Python 2.7 with pygame module.</p>
+<p>Must install 'casual' font, which is included.</p>
 
-Run "fireworks.py" to start the game
+<p>Run "fireworks.py" to start the game.</p>
